@@ -95,7 +95,7 @@ nav {
 .accueil {
   width: 100%;
   height: 100vh;
-  background-image: url("../img/accueil-pic-lum-down.jpg");
+  background-image: url("/img/accueil-pic-lum-down.jpg");
   background-position: center;
   padding-top: 1px;
   border-bottom: 1px dotted #777;
@@ -509,7 +509,7 @@ nav {
 .parallax {
   width: 100%;
   height: 300px;
-  background: url("../img/parallax-large-flou.jpg");
+  background: url("/img/accueil-pic-lum-down.jpg");
   background-position: center;
   background-attachment: fixed;
   display: flex;
